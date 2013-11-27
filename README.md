@@ -9,3 +9,7 @@ This is an app that enables store owners to post products that are available in 
 ## Information
 
 ![Screenshot 1](app/assets/images/Screen shot 2013-10-10 at 12.25.15 PM.png)
+
+## License
+
+MIT: http://aliel.mit-license.org/
